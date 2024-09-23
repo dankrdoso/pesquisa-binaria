@@ -2,8 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+
 public class Main {
     public static void main(String[] args) {
         List<Integer> minhaLista = new ArrayList<>(Arrays.asList(1,3,5,7,7,9)); //a pesquisa binária só funciona em listas ordenadas.
